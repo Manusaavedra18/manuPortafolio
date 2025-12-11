@@ -3,7 +3,7 @@ import Link from "next/link"
 const Navbar = () => {
     const navItems = [
         { name: "Home", link: "/" },
-        { name: "Experience", link: "#" },
+        { name: "Experience", link: "/components/experience" },
         { name: "Projects", link: "#" },
         { name: "Contact", link: "#" },
     ]

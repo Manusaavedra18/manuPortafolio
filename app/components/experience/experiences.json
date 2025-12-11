@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "Continuous Training & Education",
+        "company": "Self-taught / Academic",
+        "period": "Jan 2022 \u2013 Dec 2024",
+        "description": "Undertook courses in technologies like JavaScript, TypeScript, Tailwind, and React. Engaged in constant documentation reading (FreeCodeCamp, StackOverflow, W3Schools). Acquired academic knowledge in SQL, SCRUM methodologies, and interface design.",
+        "skills": [
+            "JavaScript",
+            "TypeScript",
+            "Tailwind CSS",
+            "React",
+            "SQL",
+            "SCRUM",
+            "Interface Design"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Frontend Developer",
+        "company": "Los Ribazos Apart",
+        "period": "Nov 2021 \u2013 Feb 2022",
+        "description": "Developed the hotel's web application from scratch. Stood out in the creation of web components and gained extensive knowledge in teamwork, task organization, and full-cycle web application development.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "HTML5"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Frontend Developer",
+        "company": "Yemaya L2 (Game Server)",
+        "period": "Jan 2021 \u2013 Dec 2021",
+        "description": "First approach to web development. Responsible for the design, development, and maintenance of components. Gained experience with databases (MySQL) and responsive design.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "HTML5",
+            "MySQL",
+            "Responsive Design"
+        ]
+    }
+]
