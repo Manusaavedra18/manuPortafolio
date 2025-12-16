@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Personal Portfolio | Web Development Portfolio",
+        "description": "Responsive personal portfolio website designed and built to showcase technical projects and skills. Emphasized maintainable code and efficient styling using TypeScript and Tailwind CSS, applying self-taught concepts from official documentation to solve rendering challenges and optimize performance.",
+        "technologies": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "link": "#"
+    }
+]
